@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paulettekittel91-cmd.github.io/luckx-guru-catalog/sitemap.xml
